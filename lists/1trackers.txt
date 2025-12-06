@@ -1,0 +1,12 @@
+# TRACKER E PUBBLICITÀ
+google-analytics.com
+googletagmanager.com
+doubleclick.net
+adservice.google.com
+crashlytics.com
+appsflyer.com
+firebase.google.com
+amplitude.com
+mixpanel.com
+sentry.io
+adjust.com
